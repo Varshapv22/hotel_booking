@@ -1,1 +1,1 @@
-# hotels
+# hotel_booking
